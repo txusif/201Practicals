@@ -16,7 +16,7 @@ list = [5, 3, 8, 6, 7, 2]
 print("Unsorted list: ",list)
 print("Sorted list: ",bubbleSort(list))
 
-#____________________________________________________________
+#_____________________________________________________________
 # Insertion Sort
 
 print("Insertion Sort") 

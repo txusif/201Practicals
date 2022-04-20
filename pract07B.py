@@ -26,3 +26,4 @@ print("Sorted array: ")
 
 for i in range(n):
     print(arr[i])
+    
